@@ -1,0 +1,17 @@
+2025-06-09 19:48:44,422 - INFO - Début du pipeline de clustering MiniBatch K-Means
+2025-06-09 19:48:45,996 - INFO - 267468 vecteurs ACP chargés
+2025-06-09 19:48:46,006 - INFO - Échantillon pour évaluation silhouette : 53494 lignes
+2025-06-09 19:49:13,730 - INFO -    k=2 | silhouette = 0.4588
+2025-06-09 19:49:40,193 - INFO -    k=3 | silhouette = 0.3731
+2025-06-09 19:50:05,947 - INFO -    k=4 | silhouette = 0.3222
+2025-06-09 19:50:31,234 - INFO -    k=5 | silhouette = 0.3074
+2025-06-09 19:50:56,346 - INFO -    k=6 | silhouette = 0.2722
+2025-06-09 19:51:22,396 - INFO -    k=7 | silhouette = 0.3016
+2025-06-09 19:51:47,518 - INFO -    k=8 | silhouette = 0.2688
+2025-06-09 19:52:12,571 - INFO -    k=9 | silhouette = 0.2588
+2025-06-09 19:52:37,541 - INFO -    k=10 | silhouette = 0.2617
+2025-06-09 19:52:37,542 - INFO - Meilleur k trouvé : 2
+2025-06-09 19:52:40,000 - INFO - Données clusterisées exportées dans 'acp_clusters'
+2025-06-09 19:52:50,261 - INFO - Visualisation sauvegardée : clusters_acp_pc1_pc2.png
+2025-06-09 19:52:50,263 - INFO - Connexion MongoDB fermée
+2025-06-09 19:52:50,264 - INFO - Pipeline MiniBatch K-Means terminé avec succès
