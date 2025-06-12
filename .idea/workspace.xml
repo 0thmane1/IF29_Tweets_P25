@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="502de70f-d3f1-49d0-b2d4-de621638ce6a" name="Changes" comment="ACP + Kmeans + Preparation + Exploration" />
+    <list default="true" id="94722a79-8912-464f-851f-5b37e09b75e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/comparaison_outliers_utilisateurs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/outliers_acp_pc1_pc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/clustering_20250612_220019.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/clustering_20250612_224316.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_data_preparation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_user_db.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_ACP.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_data_exploration.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/31_ Kmeans.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clusters_acp_pc1_pc2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clusters_acp_pc1_pc2.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +77,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\Desktop\P25\IF29\Projet_IF29_Tweets\.venv" />
       <recent name="C:\Users\MSI\Desktop\P25\IF29\Projet_IF29_Tweets" />
     </key>
   </component>
@@ -78,7 +91,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="502de70f-d3f1-49d0-b2d4-de621638ce6a" name="Changes" comment="" />
+      <changelist id="94722a79-8912-464f-851f-5b37e09b75e3" name="Changes" comment="" />
       <created>1748445021511</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -89,6 +102,9 @@
       <workItem from="1749461213896" duration="5791000" />
       <workItem from="1749474287131" duration="11899000" />
       <workItem from="1749493827631" duration="1291000" />
+      <workItem from="1749497970270" duration="22000" />
+      <workItem from="1749498003824" duration="907000" />
+      <workItem from="1749719859550" duration="7087000" />
     </task>
     <task id="LOCAL-00001" summary="Partie 1 du projet(Preparation +Exploration+ Kmeans1)">
       <option name="closed" value="true" />
