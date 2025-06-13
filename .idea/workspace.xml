@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94722a79-8912-464f-851f-5b37e09b75e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/comparaison_outliers_utilisateurs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/outliers_acp_pc1_pc2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/clustering_20250612_220019.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/clustering_20250612_224316.log" afterDir="false" />
+    <list default="true" id="94722a79-8912-464f-851f-5b37e09b75e3" name="Changes" comment="Analyse des résultats Kmeans">
+      <change afterPath="$PROJECT_DIR$/.venv/32_RandomForest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clustersK4_acp_pc1_pc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/confusion_matrix_supervised.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/feature_importance_supervised.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/feature_importances.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/clustering_20250613_114502.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/clustering_20250613_114819.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/supervised_20250613_130027.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/supervised_20250613_130757.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/supervised_20250613_133350.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_data_preparation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_user_db.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22_ACP.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_data_exploration.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/31_ Kmeans.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clusters_acp_pc1_pc2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clusters_acp_pc1_pc2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/31_ Kmeans.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/31_ Kmeans.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +105,9 @@
       <workItem from="1749493827631" duration="1291000" />
       <workItem from="1749497970270" duration="22000" />
       <workItem from="1749498003824" duration="907000" />
-      <workItem from="1749719859550" duration="7087000" />
+      <workItem from="1749719859550" duration="7662000" />
+      <workItem from="1749803597378" duration="89000" />
+      <workItem from="1749806419445" duration="6043000" />
     </task>
     <task id="LOCAL-00001" summary="Partie 1 du projet(Preparation +Exploration+ Kmeans1)">
       <option name="closed" value="true" />
@@ -130,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749494794735</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Kmeans complet + Analyse des résultats">
+      <option name="closed" value="true" />
+      <created>1749764725389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749764725389</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Analyse des résultats Kmeans">
+      <option name="closed" value="true" />
+      <created>1749764859051</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749764859051</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +183,8 @@
     <MESSAGE value="Partie 1 du projet(Preparation +Exploration+ Kmeans1)" />
     <MESSAGE value="ACP + Kmeans" />
     <MESSAGE value="ACP + Kmeans + Preparation + Exploration" />
-    <option name="LAST_COMMIT_MESSAGE" value="ACP + Kmeans + Preparation + Exploration" />
+    <MESSAGE value="Kmeans complet + Analyse des résultats" />
+    <MESSAGE value="Analyse des résultats Kmeans" />
+    <option name="LAST_COMMIT_MESSAGE" value="Analyse des résultats Kmeans" />
   </component>
 </project>

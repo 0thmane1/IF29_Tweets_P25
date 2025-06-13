@@ -1,0 +1,15 @@
+2025-06-13 13:00:27,470 - INFO - Début du pipeline supervisé de détection des outliers.
+2025-06-13 13:00:32,099 - INFO - 267468 utilisateurs chargés depuis MongoDB.
+2025-06-13 13:00:32,107 - INFO - 256533 profils détectés comme atypiques.
+2025-06-13 13:00:51,302 - INFO - Données sauvegardées dans la nouvelle collection : 'users_labeled_outliers_20250613_130046'
+2025-06-13 13:00:51,304 - INFO - Pipeline supervisé terminé avec succès.
+2025-06-13 13:07:57,661 - INFO - Début du pipeline supervisé de détection des outliers.
+2025-06-13 13:08:02,150 - INFO - 267468 utilisateurs chargés depuis MongoDB.
+2025-06-13 13:08:02,183 - INFO - 12298 profils détectés comme atypiques.
+2025-06-13 13:08:42,956 - INFO - Données sauvegardées dans la nouvelle collection : 'users_labeled_outliers_20250613_130838'
+2025-06-13 13:08:42,956 - INFO - Pipeline supervisé terminé avec succès.
+2025-06-13 13:33:50,911 - INFO - Début du pipeline supervisé de détection des outliers.
+2025-06-13 13:33:55,314 - INFO - 267468 utilisateurs chargés depuis MongoDB.
+2025-06-13 13:33:55,340 - INFO - 12298 profils détectés comme atypiques.
+2025-06-13 13:34:36,445 - INFO - Données sauvegardées dans la nouvelle collection : 'users_labeled_outliers'
+2025-06-13 13:34:36,446 - INFO - Pipeline supervisé terminé avec succès.
