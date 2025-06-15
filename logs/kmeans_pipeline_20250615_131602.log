@@ -1,0 +1,39 @@
+2025-06-15 13:16:02,422 - INFO -  Début du pipeline K-means amélioré
+2025-06-15 13:16:03,781 - INFO - 267468 vecteurs ACP chargés
+2025-06-15 13:16:36,962 - INFO - k=2 → silhouette=0.3855
+2025-06-15 13:17:04,483 - INFO - k=3 → silhouette=0.3726
+2025-06-15 13:17:31,964 - INFO - k=4 → silhouette=0.3380
+2025-06-15 13:17:59,030 - INFO - k=5 → silhouette=0.3060
+2025-06-15 13:18:25,766 - INFO - k=6 → silhouette=0.2527
+2025-06-15 13:18:52,650 - INFO - k=7 → silhouette=0.2866
+2025-06-15 13:19:19,818 - INFO - k=8 → silhouette=0.2796
+2025-06-15 13:19:46,913 - INFO - k=9 → silhouette=0.2530
+2025-06-15 13:20:13,576 - INFO - k=10 → silhouette=0.2513
+2025-06-15 13:20:13,577 - INFO -  Meilleur k = 2
+2025-06-15 13:20:16,068 - INFO -  Clusters sauvegardés dans 'acp_clusters'
+2025-06-15 13:20:16,104 - ERROR -  Erreur dans le pipeline : agg function failed [how->mean,dtype->object]
+2025-06-15 13:20:16,105 - INFO -  Connexion MongoDB fermée
+2025-06-15 13:20:16,106 - INFO -  Pipeline K-means terminé avec succès
+2025-06-15 13:27:28,219 - INFO -  Début du pipeline K-means amélioré
+2025-06-15 13:27:29,610 - INFO - 267468 vecteurs ACP chargés
+2025-06-15 13:27:59,256 - INFO - k=2 → silhouette=0.3855
+2025-06-15 13:28:26,931 - INFO - k=3 → silhouette=0.3726
+2025-06-15 13:28:54,305 - INFO - k=4 → silhouette=0.3380
+2025-06-15 13:29:21,585 - INFO - k=5 → silhouette=0.3060
+2025-06-15 13:29:48,460 - INFO - k=6 → silhouette=0.2527
+2025-06-15 13:30:15,471 - INFO - k=7 → silhouette=0.2866
+2025-06-15 13:30:42,547 - INFO - k=8 → silhouette=0.2796
+2025-06-15 13:31:09,453 - INFO - k=9 → silhouette=0.2530
+2025-06-15 13:31:36,286 - INFO - k=10 → silhouette=0.2513
+2025-06-15 13:31:36,287 - INFO -  Meilleur k = 2
+2025-06-15 13:31:38,945 - INFO -  Clusters sauvegardés dans 'acp_clusters'
+2025-06-15 13:31:38,960 - INFO -  Moyennes des composantes par cluster :
+          PC1   PC2   PC3   PC4   PC5
+cluster                              
+0        1.04 -0.05 -0.03  0.04  0.10
+1       -1.75  0.09  0.04 -0.07 -0.16
+2025-06-15 13:31:38,962 - INFO - 🔍 Détection des outliers par cluster...
+2025-06-15 13:41:33,959 - INFO -  2676 outliers détectés (top 1% dans chaque cluster)
+2025-06-15 13:41:33,996 - INFO -  Profils atypiques sauvegardés dans 'acp_outliers'
+2025-06-15 13:41:51,211 - INFO -  Connexion MongoDB fermée
+2025-06-15 13:41:51,212 - INFO -  Pipeline K-means terminé avec succès

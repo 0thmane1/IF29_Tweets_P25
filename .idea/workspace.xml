@@ -5,17 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94722a79-8912-464f-851f-5b37e09b75e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/comparaison_outliers_utilisateurs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/outliers_acp_pc1_pc2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/clustering_20250612_220019.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/clustering_20250612_224316.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/atypicality_distribution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/comparaison_clusters_avg_text_length.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/comparaison_clusters_contenu_des_tweets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/comparaison_clusters_engagement_&amp;_activité.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/comparaison_clusters_ratio_engagement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/comparaison_clusters_ratios_comportementaux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/comparaison_clusters_ratios_followers_friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/comparaison_clusters_tweets_per_day.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kmeans_outliers_pc1_pc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/popularity_score_log10_clusters.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/zscore_atypical_dimensions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/kmeans_pipeline_20250615_131602.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/kmeans_pipeline_20250615_132728.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_data_preparation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_user_db.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22_ACP.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_data_exploration.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/31_ Kmeans.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clusters_acp_pc1_pc2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/clusters_acp_pc1_pc2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/31_ Kmeans.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/31_ Kmeans.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/32_RandomForest.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/comparaison_outliers_utilisateurs.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/comparaison_outliers_utilisateurs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/confusion_matrix_supervised.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/confusion_matrix_supervised.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/feature_importance_supervised.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/feature_importance_supervised.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +113,9 @@
       <workItem from="1749497970270" duration="22000" />
       <workItem from="1749498003824" duration="907000" />
       <workItem from="1749719859550" duration="7087000" />
+      <workItem from="1749928858781" duration="12585000" />
+      <workItem from="1749989344062" duration="4822000" />
+      <workItem from="1749994197983" duration="1214000" />
     </task>
     <task id="LOCAL-00001" summary="Partie 1 du projet(Preparation +Exploration+ Kmeans1)">
       <option name="closed" value="true" />
